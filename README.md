@@ -22,25 +22,14 @@ Give an example
 
 Explain what these tests test and why
 
-
-## Built With
-
-* [Vanilla Javascript](javascript.info) - My favorite site to learn more about JS.
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Caleb King** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Caleb King** - *Initial work* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
