@@ -1,0 +1,19 @@
+html {
+    font-size: 10px;
+    background: url(https://i.imgur.com/acSP7Gt.jpg) center;
+    background-size: cover; /* helps makes your image responsive */
+}
+
+body, html{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.keys {
+    display: flex;       /* flex makes element behave using the flexbox model*/
+    flex: 1;
+    min-height: 100vh;   /*another unit css3 introduce to be relative to the size of the viewport*/
+    align-items: center; /*property defines how the browser distributes space between and around flex items along the cross-axis of their container*/
+    justify-content: center;
+}
